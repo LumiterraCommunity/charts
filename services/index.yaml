@@ -11,6 +11,17 @@ entries:
     urls:
     - https://lumiterracommunity.github.io/charts/services/data-acquisition-service-0.1.1.tgz
     version: 0.1.1
+  graphql-service:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-12-11T12:33:03.963658506Z"
+    description: backend graphql-service
+    digest: 4301cc47c27346fbb5456f041cfb96aa72baacd49014d764c81905149e4637a2
+    name: graphql-service
+    type: application
+    urls:
+    - https://lumiterracommunity.github.io/charts/services/graphql-service-0.1.9.tgz
+    version: 0.1.9
   image-service:
   - apiVersion: v2
     appVersion: 1.16.0
@@ -110,4 +121,4 @@ entries:
     urls:
     - https://lumiterracommunity.github.io/charts/services/wechat-service-0.1.1.tgz
     version: 0.1.1
-generated: "2022-03-08T07:32:23.020181609Z"
+generated: "2023-12-11T12:33:03.963077976Z"
