@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  marketplace:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-01-10T09:29:38.902455736Z"
+    description: A Helm chart for Kubernetes
+    digest: d7fb355848fe426f40768fbe9b984561b5e68f492e1d19544cb732bf3b828bc1
+    name: marketplace
+    type: application
+    urls:
+    - https://lumiterracommunity.github.io/charts/marketplace/marketplace-0.1.1.tgz
+    version: 0.1.1
+generated: "2022-01-10T09:29:38.901927833Z"

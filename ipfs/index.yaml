@@ -1,0 +1,154 @@
+apiVersion: v1
+entries:
+  ipfs:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-03-15T12:24:35.29013859Z"
+    description: A Helm chart for Kubernetes
+    digest: a30c1cf0c81fd553c86023b2c9590fb50857cfe6454bd5ea7e35c4fd5684c0c7
+    name: ipfs
+    type: application
+    urls:
+    - https://lumiterracommunity.github.io/charts/ipfs/ipfs-0.2.5.tgz
+    version: 0.2.5
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-03-15T12:20:22.493444705Z"
+    description: A Helm chart for Kubernetes
+    digest: c535c54fcb841805e4a17e42f6557d035c3b223abb845cebd760aa28016455a2
+    name: ipfs
+    type: application
+    urls:
+    - https://lumiterracommunity.github.io/charts/ipfs/ipfs-0.2.4.tgz
+    version: 0.2.4
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-03-15T06:16:57.451749331Z"
+    description: A Helm chart for Kubernetes
+    digest: ae2367904bf22c2a81480542d0e5abede9fbe76d8f45dce1ad65064f95a0c1fc
+    name: ipfs
+    type: application
+    urls:
+    - https://lumiterracommunity.github.io/charts/ipfs/ipfs-0.2.3.tgz
+    version: 0.2.3
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-03-15T06:04:28.262908199Z"
+    description: A Helm chart for Kubernetes
+    digest: 2c5a0aa80cbb2f8defc2ffcd4bfda499a29da0cbe370c33471b238a10b0eb33a
+    name: ipfs
+    type: application
+    urls:
+    - https://lumiterracommunity.github.io/charts/ipfs/ipfs-0.2.2.tgz
+    version: 0.2.2
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-03-15T05:59:04.434882769Z"
+    description: A Helm chart for Kubernetes
+    digest: f63c7c58c2e53878eb8c7eafcab1c3f565b871bcaa581e880da199010af17949
+    name: ipfs
+    type: application
+    urls:
+    - https://lumiterracommunity.github.io/charts/ipfs/ipfs-0.2.1.tgz
+    version: 0.2.1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-03-15T05:58:29.585521437Z"
+    description: A Helm chart for Kubernetes
+    digest: 3d65cc2e4323cc11f6346088d7c81ecbafeb80e94d85b1b9d52d1beaa80d9e25
+    name: ipfs
+    type: application
+    urls:
+    - https://lumiterracommunity.github.io/charts/ipfs/ipfs-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-03-15T04:53:13.665320203Z"
+    description: A Helm chart for Kubernetes
+    digest: b6dc0e3c81008ca6c76f05cc8ae9255b9ca2b8d284219cad7ae8501ecf29dd59
+    name: ipfs
+    type: application
+    urls:
+    - https://lumiterracommunity.github.io/charts/ipfs/ipfs-0.1.9.tgz
+    version: 0.1.9
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-01-22T11:59:21.315072997Z"
+    description: A Helm chart for Kubernetes
+    digest: 5ea3b4dff4f6aa101c2bebe5573b72a2006f59f777759a5ef92e4472ed9e45c2
+    name: ipfs
+    type: application
+    urls:
+    - https://lumiterracommunity.github.io/charts/ipfs/ipfs-0.1.8.tgz
+    version: 0.1.8
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-01-16T16:45:47.522222232Z"
+    description: A Helm chart for Kubernetes
+    digest: 2cdde8e7fa6b09744a95430bddf493dd77b525f1a230811c2ccadbfdd9e3591f
+    name: ipfs
+    type: application
+    urls:
+    - https://lumiterracommunity.github.io/charts/ipfs/ipfs-0.1.7.tgz
+    version: 0.1.7
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-01-16T16:33:44.256939368Z"
+    description: A Helm chart for Kubernetes
+    digest: 8d8253eec9126d667280b5d8d7c5b1c384a55f4557735720d667f094bf85ceb2
+    name: ipfs
+    type: application
+    urls:
+    - https://lumiterracommunity.github.io/charts/ipfs/ipfs-0.1.6.tgz
+    version: 0.1.6
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-01-16T15:40:37.350925858Z"
+    description: A Helm chart for Kubernetes
+    digest: 1643f743ef1a86a9987ed5e753e62b080d7ed4aa97a5870d7d96417a909a5130
+    name: ipfs
+    type: application
+    urls:
+    - https://lumiterracommunity.github.io/charts/ipfs/ipfs-0.1.5.tgz
+    version: 0.1.5
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-01-16T15:18:57.530422636Z"
+    description: A Helm chart for Kubernetes
+    digest: e1db707e687d4dce39fa99723515b5408f1d8634c8419d8e86b93655db669055
+    name: ipfs
+    type: application
+    urls:
+    - https://lumiterracommunity.github.io/charts/ipfs/ipfs-0.1.4.tgz
+    version: 0.1.4
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-01-16T14:23:08.643769884Z"
+    description: A Helm chart for Kubernetes
+    digest: dfb8461cc3b22e7734b470abf48a0536c544cf91911d5aa18473e1af7c825b3a
+    name: ipfs
+    type: application
+    urls:
+    - https://lumiterracommunity.github.io/charts/ipfs/ipfs-0.1.3.tgz
+    version: 0.1.3
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-01-16T13:56:51.860919365Z"
+    description: A Helm chart for Kubernetes
+    digest: 3ff2dab8ffd463cce44b90993649e5287bb5d0e2e41f4654a854c2aa3e0e8c32
+    name: ipfs
+    type: application
+    urls:
+    - https://lumiterracommunity.github.io/charts/ipfs/ipfs-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-01-07T11:51:30.811213585Z"
+    description: A Helm chart for Kubernetes
+    digest: a178d2b4f11999f6f6da42bb74b249cf864dead786e1584f39638dec2c93d1c2
+    name: ipfs
+    type: application
+    urls:
+    - https://lumiterracommunity.github.io/charts/ipfs/ipfs-0.1.1.tgz
+    version: 0.1.1
+generated: "2022-03-15T12:24:35.289288192Z"
