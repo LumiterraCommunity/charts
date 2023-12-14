@@ -21,4 +21,14 @@ entries:
     urls:
     - https://lumiterracommunity.github.io/charts/game-services/game-services-0.1.20.tgz
     version: 0.1.20
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-02-01T11:30:59.939128672Z"
+    description: A Helm chart for Kubernetes
+    digest: e2cfdb31d9d667174ca509411a5f6e999a08d0b5d58554bf65d23f9f072439e6
+    name: game-services
+    type: application
+    urls:
+    - https://thelandgame.github.io/charts/game-services/game-services-0.1.19.tgz
+    version: 0.1.19
 generated: "2023-05-31T17:47:25.362232943Z"
