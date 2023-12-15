@@ -29,6 +29,6 @@ entries:
     name: game-services
     type: application
     urls:
-    - https://thelandgame.github.io/charts/game-services/game-services-0.1.19.tgz
+    - https://lumiterracommunity.github.io/charts/game-services/game-services-0.1.19.tgz
     version: 0.1.19
 generated: "2023-05-31T17:47:25.362232943Z"
