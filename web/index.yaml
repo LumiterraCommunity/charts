@@ -79,6 +79,16 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2023-05-04T11:23:53.785646334Z"
+    description: A Helm chart for Kubernetes
+    digest: eba18a89e67079d15cbb93b03a106c07b59fffb948e926af2d2c06d64f78eb30
+    name: web-runtime
+    type: application
+    urls:
+    - https://lumiterracommunity.github.io/charts/web/web-runtime-0.1.3.tgz
+    version: 0.1.3
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2022-01-07T11:51:35.218878565Z"
     description: A Helm chart for Kubernetes
     digest: 240b084794136ecf216f2c0928574d4e4c1bf9c7733f648e56161af9be2c833f
