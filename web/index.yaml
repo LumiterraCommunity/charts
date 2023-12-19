@@ -3,6 +3,16 @@ entries:
   web-auth:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2023-12-19T07:28:16.254477993Z"
+    description: A Helm chart for Kubernetes
+    digest: e5cb3d02efa1462d50a9a54d51c06d8087ee2c4b84e82567cf8cf383cb2cbb98
+    name: web-auth
+    type: application
+    urls:
+    - https://lumiterracommunity.github.io/charts/web/web-auth-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2023-05-04T11:23:53.784532Z"
     description: A Helm chart for Kubernetes
     digest: e0e2a2702266973f71758556b1827651fa470edfb825017f74019d475c33466c
@@ -107,4 +117,4 @@ entries:
     urls:
     - https://lumiterracommunity.github.io/charts/web/web-runtime-0.1.1.tgz
     version: 0.1.1
-generated: "2023-12-19T07:22:07.030541836Z"
+generated: "2023-12-19T07:28:16.253396554Z"
