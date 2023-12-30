@@ -3,6 +3,16 @@ entries:
   dapr-components:
   - apiVersion: v2
     appVersion: 0.1.0
+    created: "2023-12-30T07:59:23.085361494Z"
+    description: dapr components
+    digest: c181858edaecc08b9475b540d917ab54fe2cb9ce06cf2146eb33f50adc1bc492
+    name: dapr-components
+    type: application
+    urls:
+    - https://lumiterracommunity.github.io/charts/dapr-components/dapr-components-0.1.5.tgz
+    version: 0.1.5
+  - apiVersion: v2
+    appVersion: 0.1.0
     created: "2023-01-31T17:20:53.654055273Z"
     description: dapr components
     digest: 49df5c507646e02daa4f8bbc1074a02aa92654ab67499b393f6708227efba8ce
@@ -54,4 +64,4 @@ entries:
     urls:
     - https://lumiterracommunity.github.io/charts/dapr-components/dapr-logging-0.1.1.tgz
     version: 0.1.1
-generated: "2023-01-31T17:20:53.653698473Z"
+generated: "2023-12-30T07:59:23.084915742Z"
