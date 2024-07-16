@@ -3,6 +3,16 @@ entries:
   game-services:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2024-07-16T12:58:58.521081197Z"
+    description: A Helm chart for Kubernetes
+    digest: 2f14af6eda82322674a6bab7343c050e65462254f7255209576f0193b5aeefdb
+    name: game-services
+    type: application
+    urls:
+    - https://lumiterracommunity.github.io/charts/game-services/game-services-0.1.29.tgz
+    version: 0.1.29
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2024-07-16T12:43:30.102809202Z"
     description: A Helm chart for Kubernetes
     digest: 3b4b4a907af1b4f6956a60a48418c33dd6993a66819e4cc35aac5cac316335e1
@@ -101,4 +111,4 @@ entries:
     urls:
     - https://lumiterracommunity.github.io/charts/game-services/game-services-0.1.19.tgz
     version: 0.1.19
-generated: "2024-07-16T12:43:30.102183812Z"
+generated: "2024-07-16T12:58:58.520443491Z"
