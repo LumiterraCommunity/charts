@@ -24,6 +24,16 @@ entries:
   theweb3:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2024-10-28T09:41:44.870337276Z"
+    description: A Helm chart for Kubernetes
+    digest: d9ee88e8a8d9573cc1f4178f47d23aead2d0ace8a8e7cfa2609898555c1831c2
+    name: theweb3
+    type: application
+    urls:
+    - https://lumiterracommunity.github.io/charts/theweb3/theweb3-0.1.3.tgz
+    version: 0.1.3
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2024-03-26T13:20:24.215999088Z"
     description: A Helm chart for Kubernetes
     digest: e5f650c42cd9ec2476966ff4fcb18bf6fbdb389cdc5edaf1db6d26fdb4b02679
@@ -32,4 +42,4 @@ entries:
     urls:
     - https://lumiterracommunity.github.io/charts/theweb3/theweb3-0.1.2.tgz
     version: 0.1.2
-generated: "2024-03-26T13:20:24.215422562Z"
+generated: "2024-10-28T09:41:44.869778513Z"
