@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  service-xlsx-tool:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-11-02T17:45:34.665895227Z"
+    description: A Helm chart for Excel processing CronJob
+    digest: 13d62952333077c88b30dede838d505cff0d1e380ef89b1478cd54e1dc80fb53
+    name: service-xlsx-tool
+    type: application
+    urls:
+    - https://lumiterracommunity.github.io/charts/service-xlsx-tool/service-xlsx-tool-0.1.1.tgz
+    version: 0.1.1
+generated: "2024-11-02T17:45:34.665508365Z"
