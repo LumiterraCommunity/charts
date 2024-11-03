@@ -214,6 +214,16 @@ entries:
   service-xlsx-tool:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2024-11-03T06:24:12.514608297Z"
+    description: A Helm chart for Excel processing CronJob
+    digest: e35e50e89a47ac3aca1c9c840eef358b1095a959773e71fcc0e8580b674f39f7
+    name: service-xlsx-tool
+    type: application
+    urls:
+    - https://lumiterracommunity.github.io/charts/game-services/service-xlsx-tool-0.1.5.tgz
+    version: 0.1.5
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2024-11-03T03:55:39.13399446Z"
     description: A Helm chart for Excel processing CronJob
     digest: 87174ce56a1a6f939b4591f855dfafa5eb24b71f4c4c3ab01ebe28875744ccd3
@@ -252,4 +262,4 @@ entries:
     urls:
     - https://lumiterracommunity.github.io/charts/game-services/service-xlsx-tool-0.1.1.tgz
     version: 0.1.1
-generated: "2024-11-03T03:55:39.133600565Z"
+generated: "2024-11-03T06:24:12.514197169Z"
