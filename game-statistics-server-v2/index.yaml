@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  game-statistics-server-v2:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-02-21T08:04:20.205585262Z"
+    description: A Helm chart for Kubernetes
+    digest: 9a46b2408d6ecc90935f8cd7e049c2429368f1de5eca9ae8399c249adaf15de8
+    name: game-statistics-server-v2
+    type: application
+    urls:
+    - https://lumiterracommunity.github.io/charts/game-statistics-server-v2/game-statistics-server-v2-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-02-21T08:04:20.205005082Z"
