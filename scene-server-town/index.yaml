@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  scene-server-town:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-08-29T01:00:01.756919203Z"
+    description: A Helm chart for Kubernetes
+    digest: 99c959e6863a15c230b9bdaf70d1ea71ff257d0db577f42453cb73565e6c5f4b
+    name: scene-server-town
+    type: application
+    urls:
+    - https://lumiterracommunity.github.io/charts/scene-server-town/scene-server-town-0.1.3.tgz
+    version: 0.1.3
+generated: "2025-08-29T01:00:01.755817813Z"
