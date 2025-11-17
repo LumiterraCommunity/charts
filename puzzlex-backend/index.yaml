@@ -3,6 +3,16 @@ entries:
   puzzlex-backend:
   - apiVersion: v2
     appVersion: latest
+    created: "2025-11-17T13:45:50.042878147Z"
+    description: A Helm chart for PuzzleX Backend (Rails + Puma + Action Cable + Sidekiq)
+    digest: 68e4bbb7f91379326fb94c121e28e67bfdda691c821b3a05b2905b8fb30cfd3a
+    name: puzzlex-backend
+    type: application
+    urls:
+    - https://lumiterracommunity.github.io/charts/puzzlex-backend/puzzlex-backend-0.1.6.tgz
+    version: 0.1.6
+  - apiVersion: v2
+    appVersion: latest
     created: "2025-11-17T13:20:24.274253147Z"
     description: A Helm chart for PuzzleX Backend (Rails + Puma + Action Cable + Sidekiq)
     digest: f700c7341ad74c1fc53e44a007ca8b87b4f92f7a6bfdd35bae362cb079a43e1c
@@ -61,4 +71,4 @@ entries:
     urls:
     - https://lumiterracommunity.github.io/charts/puzzlex-backend/puzzlex-backend-0.1.0.tgz
     version: 0.1.0
-generated: "2025-11-17T13:20:24.271194227Z"
+generated: "2025-11-17T13:45:50.04165343Z"
